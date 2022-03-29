@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining23.dll"</Assembly>
+		<AddInId>41532785-2F08-4068-9F8D-26155274D139</AddInId>
+		<FullClassName>RevitAPITraining23.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Выбор4 для Revit</Text>
+	</AddIn>
+</RevitAddIns>
